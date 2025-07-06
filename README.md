@@ -1,7 +1,7 @@
 # Parsi
 
-A new Flutter project.
+A Global Parsi Business Directory
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Browse Persian Business and People around the world
